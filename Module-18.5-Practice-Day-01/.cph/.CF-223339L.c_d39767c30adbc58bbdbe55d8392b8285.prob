@@ -1,0 +1,1 @@
+{"name":"Local: CF-223339L","url":"d:\\Phitron\\Module-18.5-Practice-Day-01\\CF-223339L.c","tests":[{"id":1715050426443,"input":"4\n1 4 2 7\n","output":"14"},{"id":1715050440832,"input":"4\n5 5 5 5\n","output":"20"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron\\Module-18.5-Practice-Day-01\\CF-223339L.c","group":"local","local":true}

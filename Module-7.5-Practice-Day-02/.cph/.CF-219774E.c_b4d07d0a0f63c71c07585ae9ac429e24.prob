@@ -1,0 +1,1 @@
+{"name":"Local: CF-219774E","url":"d:\\Phitron\\Module-7.5-Practice-Day-02\\CF-219774E.c","tests":[{"id":1713390344890,"input":"3\n1 2 3\n","output":"1 1"},{"id":1713390351565,"input":"5\n5 6 2 3 2\n","output":"2 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron\\Module-7.5-Practice-Day-02\\CF-219774E.c","group":"local","local":true}

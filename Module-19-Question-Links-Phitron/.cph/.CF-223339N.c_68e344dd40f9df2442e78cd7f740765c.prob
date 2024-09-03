@@ -1,0 +1,1 @@
+{"name":"Local: CF-223339N","url":"d:\\Phitron\\Module-19-Question-Links-Phitron\\CF-223339N.c","tests":[{"id":1715131100782,"input":"2 3\n1 2 3\n4 5 6\n1 3 5\n7 9 11","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron\\Module-19-Question-Links-Phitron\\CF-223339N.c","group":"local","local":true}
